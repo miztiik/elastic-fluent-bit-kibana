@@ -203,9 +203,7 @@ In this article, we will build an architecture, similar to the one shown above. 
 
     If you want to destroy all the resources created by the stack, Execute the below command to delete the stack, or _you can delete the stack from console as well_
 
-    1.  ## 🚀 Deploying the application
-
-    - Resources created during [Deploying The Application](#🚀-deploying-the-application)
+    - Resources created during [Deploying The Application](#-deploying-the-application)
     - Delete CloudWatch Lambda LogGroups
     - _Any other custom resources, you have created for this demo_
 
