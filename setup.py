@@ -9,7 +9,7 @@ setuptools.setup(
     name="elastic_fluent_bit_kibana",
     version="0.0.1",
 
-    description="An empty CDK Python app",
+    description="elastic_fluent_bit_kibana",
     long_description=long_description,
     long_description_content_type="text/markdown",
 
@@ -19,7 +19,7 @@ setuptools.setup(
     packages=setuptools.find_packages(where="elastic_fluent_bit_kibana"),
 
     install_requires=[
-        "aws-cdk.core==1.75.0",
+        "aws-cdk.core==1.77.0",
     ],
 
     python_requires=">=3.6",
